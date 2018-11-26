@@ -136,11 +136,7 @@ Students may enroll in this class for variable units.
   * Submit questions about the reading material by Monday noon.
 * Project deadlines:
   * TBD
-<!--   * Project proposal: Friday October 12, 2018, 11:59pm
-  * Project Milestone: Friday November 16, 2018, 11:59pm
-  * Final write up: December 10, 2018, 11:59pm
-  * Project presentations: (Tentative) December 14, 2018
- -->
+  
 ## Grading
 * 20% class participation
 * 25% weekly reading assignment
