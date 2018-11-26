@@ -13,7 +13,7 @@ layout: default
 </div>
 <div class="instructor">
   <a href="https://people.eecs.berkeley.edu/~dawnsong/">
-  <div class="instructorphoto"><img src="dawnsong.jpg" height="120" width="140"></div>
+  <div class="instructorphoto"><img src="dawnsong.jpg" height="140" width="140"></div>
   <div>Dawn Song
   </div>
   </a>
