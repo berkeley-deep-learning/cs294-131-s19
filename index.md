@@ -21,7 +21,7 @@ layout: default
 </div>
 <div class="instructor">
   <a href="https://cs.stanford.edu/~jsteinhardt/">
-  <div class="instructorphoto"><img src="Jacobsteinhardt.png"></div>
+  <div class="instructorphoto"><img src="Jacobsteinhardt.png" height="140" width="140"></div>
   <div>Jacob Steinhardt
   </div>
   </a>
