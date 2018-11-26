@@ -21,7 +21,7 @@ layout: default
 </div>
 <div class="instructor">
   <a href="https://cs.stanford.edu/~jsteinhardt/">
-  <div class="instructorphoto"><img src="Jacobsteinhardt.png" height="140" width="140"></div>
+  <div class="instructorphoto"><img src="Jacobsteinhardt.png" height="120" width="140"></div>
   <div>Jacob Steinhardt
   </div>
   </a>
@@ -31,7 +31,7 @@ layout: default
 
 <div class="instructor">
   <a href="https://people.eecs.berkeley.edu/~sazadi/">
-  <div class="instructorphoto"><img src="Samaneh-Azadi.jpg" height="140" width="140"></div>
+  <div class="instructorphoto"><img src="Samaneh-Azadi.jpg" height="120" width="140"></div>
   <div>Samaneh Azadi
   </div>
   </a>
