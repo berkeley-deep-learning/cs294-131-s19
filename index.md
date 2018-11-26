@@ -50,7 +50,7 @@ Samaneh Azadi: By appointment
 ## Piazza
 
 Course announcements will be announced through Piazza. If you are in the class,
-[**<a href="https://piazza.com/class/joy4z1cunad9h"> sign up on Piazza**])(https://piazza.com/class/joy4z1cunad9h).
+[<a href="https://piazza.com/class/joy4z1cunad9h"> **sign up on Piazza**])(https://piazza.com/class/joy4z1cunad9h).
 
 ##Syllabus
 <table style="table-layout: fixed; font-size: 88%;">
