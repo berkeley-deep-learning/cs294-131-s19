@@ -31,7 +31,7 @@ layout: default
 
 <div class="instructor">
   <a href="https://people.eecs.berkeley.edu/~sazadi/">
-  <div class="instructorphoto"><img src="Samaneh-Azadi.jpg" height="120" width="140"></div>
+  <div class="instructorphoto"><img src="Samaneh-Azadi-2.jpg" height="120" width="140"></div>
   <div>Samaneh Azadi
   </div>
   </a>
