@@ -68,23 +68,152 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
       <td> 1/28 </td>
       <td>Shafi Goldwasser</td>
-      <td><u>Main Reading:</u>
+      <td>
       <ul>
       </ul>
       </td>
-      <td><a>Video</a></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
-    <td> 2/4 </td>
-    <td>Nicolas Papernot </td>
-    <td><u>Main Reading:</u>
+        <td> 2/4 </td>
+        <td>Nicolas Papernot </td>
+        <td>
+        <ul>
+        </ul>
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> 2/11 </td>
+        <td></td>
+        <td>
+        <ul>
+        </ul>
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> 2/18 </td>
+        <td>Academic Holiday</td>
+        <td>
+        <ul>
+        </ul>
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> 2/15 </td>
+        <td>Stefan Wager</td>
+        <td>
+        <ul>
+        </ul>
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+    <td> 3/4 </td>
+    <td>Balaji Lakshminarayanan </td>
+    <td>
     <ul>
     </ul>
     </td>
-    <td><a>Video</a></td>
+    <td></td>
     <td></td>
     </tr>
+
+    <tr>
+        <td> 3/11 </td>
+        <td>Zachary Lipton</td>
+        <td>
+        <ul>
+        </ul>
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+
+    <tr>
+    <td> 3/18 </td>
+    <td></td>
+    <td>
+    <ul>
+    </ul>
+    </td>
+    <td></td>
+    <td></td>
+    </tr>
+
+    <tr>
+        <td> 3/25 </td>
+        <td>Spring Break</td>
+        <td>
+        <ul>
+        </ul>
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+
+    <tr>
+        <td> 4/1 </td>
+        <td></td>
+        <td>
+        <ul>
+        </ul>
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> 4/8 </td>
+        <td>Been Kim</td>
+        <td>
+        <ul>
+        </ul>
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+
+    <tr>
+    <td> 4/15 </td>
+    <td></td>
+    <td>
+    <ul>
+    </ul>
+    </td>
+    <td></td>
+    <td></td>
+    </tr>
+
+    <tr>
+    <td> 4/22 </td>
+    <td></td>
+    <td>
+    <ul>
+    </ul>
+    </td>
+    <td></td>
+    <td></td>
+    </tr>
+
+    <tr>
+    <td> 4/29 </td>
+    <td>Guillaume Bouchard</td>
+    <td>
+    <ul>
+    </ul>
+    </td>
+    <td></td>
+    <td></td>
+    </tr>
+
+
 </tbody>
 </table>
 
