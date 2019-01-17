@@ -66,14 +66,24 @@ Course announcements will be announced through Piazza. If you are in the class,
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td>TBD</td>
+      <td> 1/28 </td>
+      <td>Shafi Goldwasser</td>
       <td><u>Main Reading:</u>
       <ul>
       </ul>
       </td>
       <td><a>Video</a></td>
       <td></td>
+    </tr>
+    <tr>
+    <td> 2/4 </td>
+    <td>Nicolas Papernot </td>
+    <td><u>Main Reading:</u>
+    <ul>
+    </ul>
+    </td>
+    <td><a>Video</a></td>
+    <td></td>
     </tr>
 </tbody>
 </table>
