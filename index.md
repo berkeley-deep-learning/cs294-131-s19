@@ -59,7 +59,8 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
       <th style="width: 5%;">Date</th>
       <th style="width: 17%;">Speaker</th>
-      <th style="width: 50%;">Readings</th>
+      <th style="width: 10%;">Topic</th>
+      <th style="width: 40%;">Readings</th>
       <th style="width: 15%;">Talk</th>
       <th style="width: 15%;">Deadlines</th>
     </tr>
@@ -68,6 +69,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
       <td> 1/28 </td>
       <td>Shafi Goldwasser</td>
+      <td> </td>
       <td>
       <ul>
       </ul>
@@ -78,6 +80,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
         <td> 2/4 </td>
         <td>Nicolas Papernot </td>
+        <td> </td>
         <td>
         <ul>
         </ul>
@@ -88,6 +91,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
         <td> 2/11 </td>
         <td></td>
+        <td> </td>
         <td>
         <ul>
         </ul>
@@ -98,6 +102,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
         <td> 2/18 </td>
         <td>Academic Holiday</td>
+        <td> </td>
         <td>
         <ul>
         </ul>
@@ -108,6 +113,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
         <td> 2/15 </td>
         <td>Stefan Wager</td>
+        <td> </td>
         <td>
         <ul>
         </ul>
@@ -118,6 +124,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
     <td> 3/4 </td>
     <td>Balaji Lakshminarayanan </td>
+    <td> </td>
     <td>
     <ul>
     </ul>
@@ -129,6 +136,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
         <td> 3/11 </td>
         <td>Zachary Lipton</td>
+        <td> </td>
         <td>
         <ul>
         </ul>
@@ -140,6 +148,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
     <td> 3/18 </td>
     <td></td>
+    <td> </td>
     <td>
     <ul>
     </ul>
@@ -151,6 +160,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
         <td> 3/25 </td>
         <td>Spring Break</td>
+        <td> </td>
         <td>
         <ul>
         </ul>
@@ -162,6 +172,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
         <td> 4/1 </td>
         <td></td>
+        <td> </td>
         <td>
         <ul>
         </ul>
@@ -172,6 +183,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
         <td> 4/8 </td>
         <td>Been Kim</td>
+        <td> </td>
         <td>
         <ul>
         </ul>
@@ -183,6 +195,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
     <td> 4/15 </td>
     <td></td>
+    <td> </td>
     <td>
     <ul>
     </ul>
@@ -194,6 +207,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
     <td> 4/22 </td>
     <td></td>
+    <td> </td>
     <td>
     <ul>
     </ul>
@@ -205,6 +219,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
     <td> 4/29 </td>
     <td>Guillaume Bouchard</td>
+    <td> </td>
     <td>
     <ul>
     </ul>
