@@ -53,7 +53,7 @@ Course announcements will be announced through Piazza. If you are in the class,
 [<a href="https://piazza.com/class/joy4z1cunad9h"> **sign up on Piazza**])(https://piazza.com/class/joy4z1cunad9h).
 
 ## Syllabus
-* as tentative speakers
+* *as tentative speakers
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
@@ -68,7 +68,7 @@ Course announcements will be announced through Piazza. If you are in the class,
   <tbody>
     <tr>
       <td> 1/28 </td>
-      <td>Shafi Goldwasser</td>
+      <td>Shafi Goldwasser*</td>
       <td> cryptography/privacy </td>
       <td>
       <ul>
