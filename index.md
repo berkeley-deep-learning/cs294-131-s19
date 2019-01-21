@@ -69,7 +69,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
       <td> 1/28 </td>
       <td>Shafi Goldwasser</td>
-      <td> </td>
+      <td> cryptography/privacy </td>
       <td>
       <ul>
       </ul>
@@ -80,7 +80,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
         <td> 2/4 </td>
         <td>Nicolas Papernot </td>
-        <td> </td>
+        <td>security/privacy </td>
         <td>
         <ul>
         </ul>
@@ -90,8 +90,8 @@ Course announcements will be announced through Piazza. If you are in the class,
     </tr>
     <tr>
         <td> 2/11 </td>
-        <td></td>
-        <td> </td>
+        <td> Chirs Olah* </td>
+        <td>explainability </td>
         <td>
         <ul>
         </ul>
@@ -102,7 +102,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
         <td> 2/18 </td>
         <td>Academic Holiday</td>
-        <td> </td>
+        <td> - </td>
         <td>
         <ul>
         </ul>
@@ -113,7 +113,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
         <td> 2/15 </td>
         <td>Stefan Wager</td>
-        <td> </td>
+        <td>causality </td>
         <td>
         <ul>
         </ul>
@@ -124,7 +124,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
     <td> 3/4 </td>
     <td>Balaji Lakshminarayanan </td>
-    <td> </td>
+    <td> uncertainty</td>
     <td>
     <ul>
     </ul>
@@ -136,7 +136,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
         <td> 3/11 </td>
         <td>Zachary Lipton</td>
-        <td> </td>
+        <td> explainability</td>
         <td>
         <ul>
         </ul>
@@ -147,8 +147,8 @@ Course announcements will be announced through Piazza. If you are in the class,
 
     <tr>
     <td> 3/18 </td>
-    <td></td>
-    <td> </td>
+    <td> Kilian Weinberger* </td>
+    <td> uncertainty</td>
     <td>
     <ul>
     </ul>
@@ -160,7 +160,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
         <td> 3/25 </td>
         <td>Spring Break</td>
-        <td> </td>
+        <td> -</td>
         <td>
         <ul>
         </ul>
@@ -183,7 +183,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
         <td> 4/8 </td>
         <td>Been Kim</td>
-        <td> </td>
+        <td> explainability </td>
         <td>
         <ul>
         </ul>
@@ -219,7 +219,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
     <td> 4/29 </td>
     <td>Guillaume Bouchard</td>
-    <td> </td>
+    <td> fake news defense</td>
     <td>
     <ul>
     </ul>
