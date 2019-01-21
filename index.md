@@ -90,7 +90,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
         <td> 2/11 </td>
         <td> TBA </td>
-        <td>explainability </td>
+        <td>adversarial examples </td>
         <td>
         <ul>
         </ul>
@@ -122,8 +122,8 @@ Course announcements will be announced through Piazza. If you are in the class,
     </tr>
     <tr>
     <td> 3/4 </td>
-    <td>Balaji Lakshminarayanan </td>
-    <td> uncertainty</td>
+    <td>Guillaume Bouchard </td>
+    <td>fake news defense </td>
     <td>
     <ul>
     </ul>
@@ -147,7 +147,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
     <td> 3/18 </td>
     <td> TBA </td>
-    <td> uncertainty</td>
+    <td> explainability</td>
     <td>
     <ul>
     </ul>
@@ -171,7 +171,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
         <td> 4/1 </td>
         <td>TBA</td>
-        <td> </td>
+        <td>bayesian deep learning </td>
         <td>
         <ul>
         </ul>
@@ -193,8 +193,8 @@ Course announcements will be announced through Piazza. If you are in the class,
 
     <tr>
     <td> 4/15 </td>
-    <td> TBA </td>
-    <td> </td>
+    <td> Balaji Lakshminarayanan </td>
+    <td> uncertainty</td>
     <td>
     <ul>
     </ul>
@@ -206,7 +206,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
     <td> 4/22 </td>
     <td> TBA </td>
-    <td> </td>
+    <td> bayesian deep learning</td>
     <td>
     <ul>
     </ul>
@@ -217,8 +217,8 @@ Course announcements will be announced through Piazza. If you are in the class,
 
     <tr>
     <td> 4/29 </td>
-    <td>Guillaume Bouchard</td>
-    <td> fake news defense</td>
+    <td>Poster Presentation</td>
+    <td> </td>
     <td>
     <ul>
     </ul>
