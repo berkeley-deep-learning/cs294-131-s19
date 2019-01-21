@@ -53,7 +53,6 @@ Course announcements will be announced through Piazza. If you are in the class,
 [<a href="https://piazza.com/class/joy4z1cunad9h"> **sign up on Piazza**])(https://piazza.com/class/joy4z1cunad9h).
 
 ## Syllabus
-* *as tentative speakers
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
@@ -68,7 +67,7 @@ Course announcements will be announced through Piazza. If you are in the class,
   <tbody>
     <tr>
       <td> 1/28 </td>
-      <td>Shafi Goldwasser*</td>
+      <td>Shafi Goldwasser</td>
       <td> cryptography/privacy </td>
       <td>
       <ul>
@@ -90,7 +89,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     </tr>
     <tr>
         <td> 2/11 </td>
-        <td> Chirs Olah* </td>
+        <td> TBA </td>
         <td>explainability </td>
         <td>
         <ul>
@@ -147,7 +146,7 @@ Course announcements will be announced through Piazza. If you are in the class,
 
     <tr>
     <td> 3/18 </td>
-    <td> Kilian Weinberger* </td>
+    <td> TBA </td>
     <td> uncertainty</td>
     <td>
     <ul>
@@ -171,7 +170,7 @@ Course announcements will be announced through Piazza. If you are in the class,
 
     <tr>
         <td> 4/1 </td>
-        <td></td>
+        <td>TBA</td>
         <td> </td>
         <td>
         <ul>
@@ -194,7 +193,7 @@ Course announcements will be announced through Piazza. If you are in the class,
 
     <tr>
     <td> 4/15 </td>
-    <td></td>
+    <td> TBA </td>
     <td> </td>
     <td>
     <ul>
@@ -206,7 +205,7 @@ Course announcements will be announced through Piazza. If you are in the class,
 
     <tr>
     <td> 4/22 </td>
-    <td></td>
+    <td> TBA </td>
     <td> </td>
     <td>
     <ul>
