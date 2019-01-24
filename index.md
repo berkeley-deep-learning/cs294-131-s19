@@ -67,8 +67,8 @@ Course announcements will be announced through Piazza. If you are in the class,
   <tbody>
     <tr>
       <td> 1/28 </td>
-      <td>Shafi Goldwasser</td>
-      <td> cryptography/privacy </td>
+      <td></td>
+      <td> privacy </td>
       <td>
       <ul>
       </ul>
