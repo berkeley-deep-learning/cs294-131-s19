@@ -281,9 +281,12 @@ Students may enroll in this class for variable units.
 ## Deadlines
 
 * Reading assignment deadlines:
-  * Submit questions about the reading material by Monday noon.
+  * Submit questions about the reading material by Sunday noon.
 * Project deadlines:
-  * TBD
+  * 3/4: Project proposal due
+  * 4/1: Project milestone report due
+  * 4/29: Poster presentation
+  * 5/6: (tentative) Final project report due
 
 ## Grading
 * 20% class participation
