@@ -147,7 +147,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
     <td> 3/18 </td>
     <td> TBA </td>
-    <td> explainability</td>
+    <td> Pyro</td>
     <td>
     <ul>
     </ul>
@@ -171,7 +171,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
         <td> 4/1 </td>
         <td>TBA</td>
-        <td>bayesian deep learning </td>
+        <td>information theory </td>
         <td>
         <ul>
         </ul>
