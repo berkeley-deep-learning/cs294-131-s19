@@ -89,7 +89,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     </tr>
     <tr>
         <td> 2/11 </td>
-        <td> TBA </td>
+        <td> Justin Gilmer </td>
         <td>adversarial examples </td>
         <td>
         <ul>
