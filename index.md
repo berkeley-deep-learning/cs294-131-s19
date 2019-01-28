@@ -110,7 +110,7 @@ Course announcements will be announced through Piazza. If you are in the class,
         <td></td>
     </tr>
     <tr>
-        <td> 2/15 </td>
+        <td> 2/25 </td>
         <td>Stefan Wager</td>
         <td>causality </td>
         <td>
@@ -147,7 +147,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
     <td> 3/18 </td>
     <td> TBA </td>
-    <td> Pyro</td>
+    <td> TBA</td>
     <td>
     <ul>
     </ul>
@@ -283,7 +283,7 @@ Students may enroll in this class for variable units.
 * Reading assignment deadlines:
   * Submit questions about the reading material by Sunday noon.
 * Project deadlines:
-  * 3/4: Project proposal due
+  * 2/25: Project proposal due
   * 4/1: Project milestone report due
   * 4/29: Poster presentation
   * 5/6: (tentative) Final project report due
