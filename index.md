@@ -68,7 +68,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
       <td> 1/28 </td>
       <td>Jacob Steinhardt</td>
-      <td>  course overview/privacy </td>
+      <td>  course overview/security </td>
       <td>
       <ul>
       </ul>
