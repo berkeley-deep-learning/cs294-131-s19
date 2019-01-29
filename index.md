@@ -73,15 +73,22 @@ Course announcements will be announced through Piazza. If you are in the class,
       <ul>
       </ul>
       </td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1xquUpTv2tTBMGwrEwz--ok5e4pt4HmJS/view?usp=sharing">Slides</a></td>
       <td></td>
     </tr>
     <tr>
         <td> 2/4 </td>
         <td>Nicolas Papernot </td>
         <td>security/privacy </td>
-        <td>
+        <td><u>Main Reading:</u>
         <ul>
+        <li><a href="https://arxiv.org/abs/1705.07204">Ensemble adversarial training</a></li>
+        <li><a href="https://arxiv.org/abs/1802.08908">Scalable private learning with PATE</a></li>
+        </ul>
+        <u>Background Reading:</u>
+        <ul>
+        <li><a href="https://arxiv.org/abs/1703.04730">Understanding black-box predictions via influence functions</a></li>
+        <li><a href="https://www.cs.cornell.edu/~shmat/shmat_oak17.pdf">Membership inference attacks against machine learning models</a></li>
         </ul>
         </td>
         <td></td>
