@@ -78,7 +78,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     </tr>
     <tr>
         <td> 2/4 </td>
-        <td>Nicolas Papernot </td>
+        <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s19/speakers.html#nicolas-paprenot:-a-marauder's-map-of-security-and-privacy-in-machine-learning">Nicolas Papernot</a> </td>
         <td>security/privacy </td>
         <td><u>Main Reading:</u>
         <ul>
