@@ -154,7 +154,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     <tr>
     <td> 3/18 </td>
     <td> TBA </td>
-    <td> TBA</td>
+    <td> Bayesian Deep learning</td>
     <td>
     <ul>
     </ul>
@@ -212,8 +212,8 @@ Course announcements will be announced through Piazza. If you are in the class,
 
     <tr>
     <td> 4/22 </td>
-    <td> TBA </td>
-    <td> bayesian deep learning</td>
+    <td> Noah Goodman </td>
+    <td> Pyro </td>
     <td>
     <ul>
     </ul>
