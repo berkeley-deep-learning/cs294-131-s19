@@ -153,7 +153,7 @@ Course announcements will be announced through Piazza. If you are in the class,
 
     <tr>
     <td> 3/18 </td>
-    <td> TBA </td>
+    <td> Dustin Tran </td>
     <td> Bayesian Deep learning</td>
     <td>
     <ul>
@@ -177,7 +177,7 @@ Course announcements will be announced through Piazza. If you are in the class,
 
     <tr>
         <td> 4/1 </td>
-        <td>TBA</td>
+        <td>Alex Alemi, Ian Fischer </td>
         <td>information theory </td>
         <td>
         <ul>
