@@ -73,7 +73,8 @@ Course announcements will be announced through Piazza. If you are in the class,
       <ul>
       </ul>
       </td>
-      <td><a href="https://drive.google.com/file/d/1xquUpTv2tTBMGwrEwz--ok5e4pt4HmJS/view?usp=sharing">Slides</a></td>
+      <td> <li> <a href="https://drive.google.com/file/d/1xquUpTv2tTBMGwrEwz--ok5e4pt4HmJS/view?usp=sharing">Slides</a> </li>
+      <li> <a href="https://www.youtube.com/watch?v=H8st9GuC5SI&list=PLkFD6_40KJIxG6I7MWd4LXAKl-kQO54_8">Video</a> </li></td>
       <td></td>
     </tr>
     <tr>
