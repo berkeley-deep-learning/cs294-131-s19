@@ -97,7 +97,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     </tr>
     <tr>
         <td> 2/11 </td>
-        <td> Justin Gilmer </td>
+        <td> <a href="https://berkeley-deep-learning.github.io/cs294-131-s19/speakers.html#justin-gilmer-adversarial-examples-are-a-natural-consequence-of-test-error-in-noise">Justin Gilmer </a> </td>
         <td>adversarial examples </td>
         <td><u>Main Reading:</u>
         <ul><li><a href="https://arxiv.org/pdf/1807.01697.pdf">Benchmarking Neural Network Robustness To Common Corruptions And Perturbations</a></li>
