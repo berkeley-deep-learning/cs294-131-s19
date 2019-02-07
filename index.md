@@ -92,7 +92,8 @@ Course announcements will be announced through Piazza. If you are in the class,
         <li><a href="https://www.cs.cornell.edu/~shmat/shmat_oak17.pdf">Membership inference attacks against machine learning models</a></li>
         </ul>
         </td>
-        <td></td>
+        <td> <li> <a href="https://drive.google.com/file/d/1yhOrWnM_QJRruDGkodbXmdXMXcsqRrzJ/view?usp=sharing">Slides</a> </li>
+        <li> <a href="https://www.youtube.com/watch?v=5GQUXmSg8XU&index=3&t=0s&list=PLkFD6_40KJIxG6I7MWd4LXAKl-kQO54_8">Video</a> </li></td>
         <td></td>
     </tr>
     <tr>
