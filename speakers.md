@@ -7,3 +7,13 @@ There is growing recognition that machine learning (ML) exposes new security and
 ### Bio
 
 Nicolas Papernot is a research scientist at Google Brain working on the security and privacy of machine learning. He will join the University of Toronto and Vector Institute as an assistant professor and Canada CIFAR AI Chair in the Fall 2019. He earned his Ph.D. in Computer Science and Engineering at the Pennsylvania State University, working with Prof. Patrick McDaniel and supported by a Google PhD Fellowship in Security and Privacy. Nicolas received a best paper award at ICLR 2017. He is also the co-author of CleverHans, an open-source library widely adopted in the technical community to benchmark machine learning in adversarial settings, and tf.Privacy, an open-source library for training differentially private models with TensorFlow. In 2016, he received his M.S. in Computer Science and Engineering from the Pennsylvania State University and his M.S. in Engineering Sciences from the Ecole Centrale de Lyon.
+
+## Justin Gilmer: Adversarial Examples Are a Natural Consequence of Test Error in Noise
+
+### Abstract
+
+ Over the last few years, the phenomenon of adversarial examples — maliciously constructed inputs that fool trained machine learning models — has captured the attention of the research community, especially when the adversary is restricted to small modifications of a correctly handled input. Less surprisingly, image classifiers also lack human-level performance on randomly corrupted images, such as images with additive Gaussian noise. In this paper we provide both empirical and theoretical evidence that these are two manifestations of the same underlying phenomenon, establishing close connections between the adversarial robustness and corruption robustness research programs. This suggests that improving adversarial robustness should go hand in hand with improving performance in the presence of more general and realistic image corruptions. Based on our results we recommend that future adversarial defenses consider evaluating the robustness of their methods to distributional shift with benchmarks such as Imagenet-C.
+
+### Bio
+
+Justin Gilmer attended the inaugural Brain Residency program and is now a research scientist at Google Brain. He’s interested in a number of topics in machine learning with recent focus on graph neural networks and model robustness. His received his PhD in theoretical mathematics from Rutgers University where he worked with Michael Saks.

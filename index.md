@@ -99,8 +99,14 @@ Course announcements will be announced through Piazza. If you are in the class,
         <td> 2/11 </td>
         <td> Justin Gilmer </td>
         <td>adversarial examples </td>
-        <td>
+        <td><u>Main Reading:</u>
+        <ul><li><a href="https://arxiv.org/pdf/1807.01697.pdf">Benchmarking Neural Network Robustness To Common Corruptions And Perturbations</a></li>
+        <li><a href="https://arxiv.org/pdf/1901.10513.pdf">Adversarial Examples Are a Natural Consequence of Test Error in Noise</a></li>
+        </ul>
+        <u>Background Reading:</u>
         <ul>
+        <li><a href="https://arxiv.org/abs/1807.06732">
+        Motivating the Rules of the Game for Adversarial Example Research</a></li>
         </ul>
         </td>
         <td></td>
