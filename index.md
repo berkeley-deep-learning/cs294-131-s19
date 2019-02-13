@@ -110,7 +110,8 @@ Course announcements will be announced through Piazza. If you are in the class,
         Motivating the Rules of the Game for Adversarial Example Research</a></li>
         </ul>
         </td>
-        <td></td>
+        <td> <li> <a href="https://drive.google.com/file/d/1_XbCeAi7cKVWvTJGFNRrMNcQT819nVpJ/view?usp=sharing">Slides</a> </li>
+        <li> <a href="https://www.youtube.com/watch?v=ozt-yu72GpQ&t=0s&list=PLkFD6_40KJIxG6I7MWd4LXAKl-kQO54_8&index=4">Video</a> </li></td>
         <td></td>
     </tr>
     <tr>
