@@ -127,7 +127,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     </tr>
     <tr>
         <td> 2/25 </td>
-        <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s19/speakers.html#stefan-wager-deep-learning-for-causal-inference?">Stefan Wager</a></td>
+        <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s19/speakers.html#stefan-wager-deep-learning-for-causal-inference">Stefan Wager</a></td>
         <td>causality </td>
         <td><u>Main Reading:</u>
         <ul><li><a href="http://science.sciencemag.org/content/355/6324/483/tab-pdf">Beyond prediction: Using big data for policy problems</a></li>
