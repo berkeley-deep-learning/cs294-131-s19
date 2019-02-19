@@ -17,3 +17,13 @@ Nicolas Papernot is a research scientist at Google Brain working on the security
 ### Bio
 
 Justin Gilmer attended the inaugural Brain Residency program and is now a research scientist at Google Brain. He’s interested in a number of topics in machine learning with recent focus on graph neural networks and model robustness. His received his PhD in theoretical mathematics from Rutgers University where he worked with Michael Saks.
+
+## Stefan Wager: Deep Learning for Causal Inference?
+
+### Abstract
+
+Causal inference is about understanding how various interventions might affect a target of interest, e.g., should we expect surgery to help heal a given patient, or do we believe a minimum wage hike will influence employment in the service industry. There is considerable interest in using methods from deep learning for causal inference so that we might be able to bring new unstructured data to bear on ever more complex questions. In doing so, however, it is important to consider several challenges that are accentuated in a causal inference context: selection bias may make it difficult to distinguish causality from association; effect sizes are invariably weak and we need to be wary of hallucinating signals; and decision rules deployed in high-stakes environments must be well-enough understood by stakeholders so that they can assess whether they are fair. This talk will survey different takes on how deep learning could be used for causal inference, and discuss how any such approach can plug-in to decades of research on robust and credible causal inference from economics, epidemiology and statistics.
+
+### Bio
+
+Stefan Wager is an Assistant Professor of Operations, Information and Technology at Stanford Graduate School of Business, and an Assistant Professor of Statistics (by courtesy). He received his Ph.D. in Statistics from Stanford in 2016. Professor Wager’s research lies at the intersection of causal inference, optimization, and statistical learning. He is particularly interested in developing new solutions to classical problems in statistics, economics and decision making that leverage recent developments in machine learning.
