@@ -144,12 +144,17 @@ Course announcements will be announced through Piazza. If you are in the class,
     </tr>
     <tr>
     <td> 3/4 </td>
-    <td>Guillaume Bouchard </td>
+    <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s19/speakers.html#Guillaume-bouchard-social-media-platform-safety-aI-against-misinformation">Guillaume Bouchard</a></td>
     <td>fake news defense </td>
-    <td>
-    <ul>
+    <td><u>Main Reading:</u>
+    <ul><li><a href="https://dl.acm.org/citation.cfm?id=3184558.3188723">Relevant Document Discovery for Fact-Checking Articles</a></li>
+    <li><a href="https://arxiv.org/pdf/1811.00706.pdf">Combining Similarity Features and Deep Representation Learning for Stance Detection in the Context of Checking Fake News</a></li>
     </ul>
-    </td>
+    <u>Background Reading:</u>
+    <ul>
+    <li><a href="https://arxiv.org/abs/1802.07398"> Investigating Rumor News Using Agreement-Aware Search</a></li>
+    <li><a href="http://www.aclweb.org/anthology/W17-1101"> A survey on hate speech detection using natural language processing</a></li>
+    </ul>    </td>
     <td></td>
     <td></td>
     </tr>

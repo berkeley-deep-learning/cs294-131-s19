@@ -27,3 +27,13 @@ Causal inference is about understanding how various interventions might affect a
 ### Bio
 
 Stefan Wager is an Assistant Professor of Operations, Information and Technology at Stanford Graduate School of Business, and an Assistant Professor of Statistics (by courtesy). He received his Ph.D. in Statistics from Stanford in 2016. Professor Wager’s research lies at the intersection of causal inference, optimization, and statistical learning. He is particularly interested in developing new solutions to classical problems in statistics, economics and decision making that leverage recent developments in machine learning.
+
+## Guillaume Bouchard: Social Media Platform Safety - AI against Misinformation
+
+### Abstract
+
+False news is harmful to society, it makes the world less informed, and it erodes trust. It's not a new phenomenon, and many organizations — tech companies, media companies, newsrooms, schools — have a responsibility to do our part in addressing it. At Facebook, we're working to fight the spread of false news by building AI-centric products to curb the spread of false news. During this course, we will review state-of-the-art content understanding techniques that are used to reduce the spread of misinformation, and fight harmful behavior, such as hate speech or inadequate media content sharing.
+
+### Bio
+
+Guillaume Bouchard is Research Manager in the Integrity Solution group at Facebook, with the primary goal of reducing misinformation using AI techniques. He authored more than 60 publications and 50 patents in international venues. He received his PhD in Applied Statistics from INRIA in 2005, was senior research scientist for Xerox Research Centre, France and UCL, UK. He was Founder and CEO of Bloomsbury AI, a NLP startup developing question-answering systems that can “read” and “reason” on written documents automatically.
