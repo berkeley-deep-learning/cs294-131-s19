@@ -144,7 +144,7 @@ Course announcements will be announced through Piazza. If you are in the class,
     </tr>
     <tr>
     <td> 3/4 </td>
-    <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s19/speakers.html#Guillaume-bouchard-social-media-platform-safety-aI-against-misinformation">Guillaume Bouchard</a></td>
+    <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s19/speakers.html#Guillaume-bouchard-social-media-platform-safety---aI-against-misinformation">Guillaume Bouchard</a></td>
     <td>fake news defense </td>
     <td><u>Main Reading:</u>
     <ul><li><a href="https://dl.acm.org/citation.cfm?id=3184558.3188723">Relevant Document Discovery for Fact-Checking Articles</a></li>
