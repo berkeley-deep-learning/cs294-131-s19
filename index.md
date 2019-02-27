@@ -139,7 +139,7 @@ Course announcements will be announced through Piazza. If you are in the class,
         <li><a href="http://bayes.cs.ucla.edu/R218-B.pdf"> Causal Diagrams for Empirical Research</a></li>
         </ul>
         </td>
-        <td></td>
+        <td><li> <a href="https://drive.google.com/file/d/1O43Z9Nk-zlBPRl0pvVPzony9_Wwn1-GO/view?usp=sharing">Slides</a> </li></td>
         <td></td>
     </tr>
     <tr>
