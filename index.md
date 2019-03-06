@@ -161,11 +161,18 @@ Course announcements will be announced through Piazza. If you are in the class,
 
     <tr>
         <td> 3/11 </td>
-        <td>Zachary Lipton</td>
+        <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s19/speakers.html#zachary-lipton-deep-learning-under-distribution-shift">Zachary Lipton</a></td>
         <td> explainability</td>
         <td>
-        <ul>
+        <u>Main Reading:</u>
+        <ul><li><a href="https://arxiv.org/abs/1802.03916">Detecting and Correcting for Label Shift with Black Box Predictors</a></li>
+        <li><a href="https://128.84.21.199/abs/1903.01689">Domain Adaptation with Asymmetrically-Relaxed Distribution Alignment</a></li>
         </ul>
+        <u>Background Reading:</u>
+        <ul>
+        <li><a href="https://www.sciencedirect.com/science/article/pii/S0378375800001154"> Improving predictive inference under covariate shift by weighting the log-likelihood function</a></li>
+        <li><a href="https://arxiv.org/abs/1505.07818"> Domain-Adversarial Training of Neural Networks</a></li>
+        </ul>    
         </td>
         <td></td>
         <td></td>

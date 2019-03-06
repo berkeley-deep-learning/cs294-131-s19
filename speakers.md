@@ -37,3 +37,13 @@ False news is harmful to society, it makes the world less informed, and it erode
 ### Bio
 
 Guillaume Bouchard is Research Manager in the Integrity Solution group at Facebook, with the primary goal of reducing misinformation using AI techniques. He authored more than 60 publications and 50 patents in international venues. He received his PhD in Applied Statistics from INRIA in 2005, was senior research scientist for Xerox Research Centre, France and UCL, UK. He was Founder and CEO of Bloomsbury AI, a NLP startup developing question-answering systems that can “read” and “reason” on written documents automatically.
+
+## Zachary Lipton: Deep Learning Under Distribution Shift
+
+### Abstract
+
+We might hope that when faced with unexpected inputs, well-designed software systems would fire off warnings. However, ML systems, which depend strongly on properties of their inputs (e.g. the i.i.d. assumption), tend to fail silently. Faced with distribution shift, we wish to detect and quantify the shift, and to correct our classifiers when possible, even without observing test set labels. This talk will describe several approaches for tackling distribution shift. In one case, motivated by medical diagnosis, where diseases (targets), cause symptoms (observations), we focus on label shift, where the label marginal p(y) changes but the conditional p(x|y) does not. Our method exploits arbitrary black box predictors to reduce dimensionality, detecting and correcting shift without having to maneuver in the ambient dimension. In other work, we extend this research examining shift detection more broadly, and focusing on cases including structured output, noisy inputs.
+
+### Bio
+
+Zachary Chase Lipton is an assistant professor at Carnegie Mellon University. His research spans both core machine learning methods and their social impact. This work addresses diverse application areas, including medical diagnosis, dialogue systems, and product recommendation. He is the founding editor of the Approximately Correct blog and the lead author of Dive Into Deep Learning, an interactive open-source book teaching deep learning through Jupyter notebooks. Find on Twitter (@zacharylipton) or GitHub (@zackchase).
