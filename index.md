@@ -174,7 +174,7 @@ Course announcements will be announced through Piazza. If you are in the class,
         <li><a href="https://arxiv.org/abs/1505.07818"> Domain-Adversarial Training of Neural Networks</a></li>
         </ul>    
         </td>
-        <td></td>
+        <td><li> <a href="https://www.youtube.com/watch?v=2j549R0PdPA&t=0s&index=5&list=PLkFD6_40KJIxG6I7MWd4LXAKl-kQO54_8">Video</a> </li></td>
         <td></td>
     </tr>
 
@@ -183,8 +183,15 @@ Course announcements will be announced through Piazza. If you are in the class,
     <td> Dustin Tran </td>
     <td> Bayesian Deep learning</td>
     <td>
-    <ul>
+    <u>Main Reading:</u>
+    <ul><li><a href="http://dustintran.com/papers/KucukelbirTranRanganathGelmanBlei2017.pdf">Automatic Differentiation Variational Inference</a></li>
+    <li><a href="https://arxiv.org/abs/1701.03757">Deep Probabilistic Programming</a></li>
     </ul>
+    <u>Background Reading:</u>
+    <ul>
+    <li><a href="https://arxiv.org/abs/1312.6114"> Auto-Encoding Variational Bayes</a></li>
+    <li><a href="http://www.cs.columbia.edu/~blei/papers/Blei2014b.pdf"> Build, Compute, Critique, Repeat: Data Analysis with Latent Variable Models</a></li>
+    </ul>  
     </td>
     <td></td>
     <td></td>
