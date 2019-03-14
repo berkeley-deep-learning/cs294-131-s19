@@ -47,3 +47,16 @@ We might hope that when faced with unexpected inputs, well-designed software sys
 ### Bio
 
 Zachary Chase Lipton is an assistant professor at Carnegie Mellon University. His research spans both core machine learning methods and their social impact. This work addresses diverse application areas, including medical diagnosis, dialogue systems, and product recommendation. He is the founding editor of the Approximately Correct blog and the lead author of Dive Into Deep Learning, an interactive open-source book teaching deep learning through Jupyter notebooks. Find on Twitter (@zacharylipton) or GitHub (@zackchase).
+
+## Dustin Tran: The Probabilistic Approach to Deep Learning
+
+### Abstract
+
+Probabilistic methods have expanded the scope of deep learning, with applications ranging from perceptual tasks such as image generation, to scientific challenges such as understanding how genetic factors cause diseases. In this talk, I will give an overview of the probabilistic approach to machine learning---specifically, the idea of Box's loop which formulates the scientific method via building models, performing inference and predictions, validating the models, and repeating this loop by revising the models. I'll then go over two specific directions to assist in Box's loop: improved methods for variational inference; and improved software via probabilistic programming languages.
+
+### Bio
+
+Dustin Tran is a research scientist at Google Brain. His interests are broadly in probabilistic generative models, where he has made contributions in probabilistic programming, variational inference, and latent variable models.  Previously, he was a Ph.D. student in Computer Science at Columbia advised by David Blei and Andrew Gelman. Find him on Twitter (@dustinvtran); website: http://dustintran.com/.
+
+
+
