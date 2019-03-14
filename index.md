@@ -180,7 +180,7 @@ Course announcements will be announced through Piazza. If you are in the class,
 
     <tr>
     <td> 3/18 </td>
-    <td> <a href="https://berkeley-deep-learning.github.io/cs294-131-s19/speakers.html#dustin-tran-the-probabilistic-approach-to-deep-learning">Dustin Tran </td>
+    <td> <a href="https://berkeley-deep-learning.github.io/cs294-131-s19/speakers.html#dustin-tran-the-probabilistic-approach-to-deep-learning">Dustin Tran </a></td>
     <td> Bayesian Deep learning</td>
     <td>
     <u>Main Reading:</u>
