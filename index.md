@@ -193,7 +193,8 @@ Course announcements will be announced through Piazza. If you are in the class,
     <li><a href="http://www.cs.columbia.edu/~blei/papers/Blei2014b.pdf"> Build, Compute, Critique, Repeat: Data Analysis with Latent Variable Models</a></li>
     </ul>  
     </td>
-    <td><li> <a href="https://drive.google.com/file/d/1zXaAkhecrdo_WeLaHtgrMJcOz18y6aom/view?usp=sharing">Slides</a> </li></td>
+    <td><li> <a href="https://drive.google.com/file/d/1zXaAkhecrdo_WeLaHtgrMJcOz18y6aom/view?usp=sharing">Slides</a> </li>
+        <li> <a href="https://www.youtube.com/watch?v=UULqXZN5N6I&list=PLkFD6_40KJIxG6I7MWd4LXAKl-kQO54_8&index=6&t=0s">Video </a> </li></td>
     <td></td>
     </tr>
 
