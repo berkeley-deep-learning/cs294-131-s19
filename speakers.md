@@ -58,5 +58,20 @@ Probabilistic methods have expanded the scope of deep learning, with application
 
 Dustin Tran is a research scientist at Google Brain. His interests are broadly in probabilistic generative models, where he has made contributions in probabilistic programming, variational inference, and latent variable models.  Previously, he was a Ph.D. student in Computer Science at Columbia advised by David Blei and Andrew Gelman. Find him on Twitter (@dustinvtran); website: http://dustintran.com/.
 
+## Alex Alemi and Ian Fischer: Information Theory, Learning Representations, and Robust Generalization
+
+### Abstract
+
+In this talk we will introduce core ideas in representation learning from an information theoretic perspective.  We will present unsupervised and supervised learning objectives and show their relationship to the well-known Information Bottleneck method.  By constraining the information present in a representation, gains have been demonstrated with respect to generalization, out of distribution detection, calibration and adversarial robustness.
+
+
+### Bio
+
+Alex Alemi is currently a Senior Research Scientist at Google interested in the intersection of information theory and deep learning with a particular focus on representational learning.  In a previous life he was a theoretical condensed matter physicist.  he received my PhD from Cornell working under Jim Sethna on a wide array of topics from nonlinear elasticity to zombies, and a BS in Physics from Caltech.
+
+Ian Fischer is a researcher at Google working at the intersection of information theory and machine learning. His focus has been on understanding and developing information theoretic objective functions, motivated by a desire for robust generalization. Previous to joining Google, he started and sold two technology companies.
+
+
+
 
 

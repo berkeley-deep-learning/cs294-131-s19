@@ -212,11 +212,20 @@ Course announcements will be announced through Piazza. If you are in the class,
 
     <tr>
         <td> 4/1 </td>
-        <td>Alex Alemi, Ian Fischer </td>
+        <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s19/speakers.html#alex-alemi-and-ian-fischer-information-theory-learning-representations-and-robust-generalization">Alex Alemi, Ian Fischer </a></td>
         <td>information theory </td>
         <td>
-        <ul>
+        <u>Main Reading:</u>
+        <ul><li><a href="https://arxiv.org/abs/1807.00906">Uncertainty in the Variational Information Bottleneck</a></li>
+        <li><a href="https://openreview.net/pdf?id=rkVOXhAqY7">The Conditional Entropy Bottleneck</a></li>
         </ul>
+        <u>Background Reading:</u>
+        <ul>
+        <li><a href="https://arxiv.org/abs/1612.00410">Deep Variational Information Bottleneck </a></li>
+        <li><a href="https://arxiv.org/abs/1711.00464"> Fixing a Broken ELBO</a></li>
+        <li><a href="https://arxiv.org/abs/physics/0004057">The Information Bottleneck Method</a></li>
+        <li><a href="http://www.jmlr.org/papers/volume19/17-646/17-646.pdf"> Emergence of Invariance and Disentanglement in Deep Representations</a></li>
+        </ul> 
         </td>
         <td></td>
         <td></td>
