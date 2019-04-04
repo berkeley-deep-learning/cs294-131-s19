@@ -234,16 +234,13 @@ Course announcements will be announced through Piazza. If you are in the class,
     </tr>
     <tr>
         <td> 4/8 </td> 
-        <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s19/speakers.html#been-kim-interpretability-the-myth-questions-and-some-answers">Been Kim</a></td>
+        <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s19/speakers.html#been-kim-interpretability---the-myth-questions-and-some-answers">Been Kim</a></td>
         <td> explainability </td>
         <td>
         <u>Main Reading:</u>
         <ul><li><a href="https://arxiv.org/abs/1711.11279">Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)</a></li>
         <li><a href="https://arxiv.org/abs/1810.03292">Sanity Checks for Saliency Maps</a></li>
         </ul>
-        <u>Background Reading:</u>
-        <ul>
-        </ul> 
         </td>
         <td></td>
         <td></td>

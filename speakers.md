@@ -81,6 +81,7 @@ Among them, I will take a deeper dive in one of my recent work - testing with co
 
 
 ### Bio
+Been Kim is a senior research scientist at Google Brain. Her research focuses on building interpretable machine learning - making ML understandable by humans. The vision of her research is to make humans empowered by machine learning, not overwhelmed by it. She gave ICML tutorial on the topic in 2017, CVPR and MLSS at University of Toronto in 2018. She is a co-workshop Chair ICLR 2019, and has been an area chair and a program committee at NIPS, ICML, AISTATS and FAT* conferences. In 2018, she gave a talk at G20 meeting on digital economy summit in Argentina. She received her PhD. from MIT.
 
 
 
