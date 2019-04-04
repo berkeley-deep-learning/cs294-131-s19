@@ -71,7 +71,16 @@ Alex Alemi is currently a Senior Research Scientist at Google interested in the 
 
 Ian Fischer is a researcher at Google working at the intersection of information theory and machine learning. His focus has been on understanding and developing information theoretic objective functions, motivated by a desire for robust generalization. Previous to joining Google, he started and sold two technology companies.
 
+## Been Kim: Interpretability - the myth, questions, and some answers
 
+### Abstract
+
+In this talk, I will provide an overview of my work on interpretability from the past year. I will talk about 1) our studies on factors that influence how humans understand explanations from machine learning models, 2) building inherently interpretable models with and without human-in-the-loop, 3) improving interpretability when you already have a model (post-training interpretability) and 4) our work on ways to test and evaluate interpretability methods.
+
+Among them, I will take a deeper dive in one of my recent work - testing with concept activation vectors (TCAV) - a post-training interpretability method for complex models, such as neural network. This method provides an interpretation of a neural net's internal state in terms of human-friendly, high-level concepts instead of low-level input features. The key idea is to view the high-dimensional internal state of a neural net as an aid, not an obstacle. We show how to use concept activation vectors (CAVs) as part of a technique, Testing with CAVs (TCAV), that uses directional derivatives to quantify the degree to which a user-defined concept is important to a classification result--for example, how sensitive a prediction of “zebra” is to the presence of stripes. Using the domain of image classification as a testing ground, we describe how CAVs may be used to explore hypotheses and generate insights for a standard image classification network as well as a medical application.
+
+
+### Bio
 
 
 

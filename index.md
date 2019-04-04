@@ -227,16 +227,23 @@ Course announcements will be announced through Piazza. If you are in the class,
         <li><a href="http://www.jmlr.org/papers/volume19/17-646/17-646.pdf"> Emergence of Invariance and Disentanglement in Deep Representations</a></li>
         </ul> 
         </td>
-        <td></td>
+        <td>        
+            <li> <a href="https://www.youtube.com/watch?v=7IalLt07bzA&list=PLkFD6_40KJIxG6I7MWd4LXAKl-kQO54_8&index=7&t=0s">Video </a> </li></td>
+        </td>
         <td></td>
     </tr>
     <tr>
-        <td> 4/8 </td>
-        <td>Been Kim</td>
+        <td> 4/8 </td> 
+        <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s19/speakers.html#been-kim-interpretability-the-myth-questions-and-some-answers">Been Kim</a></td>
         <td> explainability </td>
         <td>
-        <ul>
+        <u>Main Reading:</u>
+        <ul><li><a href="https://arxiv.org/abs/1711.11279">Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)</a></li>
+        <li><a href="https://arxiv.org/abs/1810.03292">Sanity Checks for Saliency Maps</a></li>
         </ul>
+        <u>Background Reading:</u>
+        <ul>
+        </ul> 
         </td>
         <td></td>
         <td></td>
