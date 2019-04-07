@@ -241,6 +241,11 @@ Course announcements will be announced through Piazza. If you are in the class,
         <ul><li><a href="https://arxiv.org/abs/1711.11279">Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)</a></li>
         <li><a href="https://arxiv.org/abs/1810.03292">Sanity Checks for Saliency Maps</a></li>
         </ul>
+        <u>Background Reading:</u>
+        <ul>
+        <li><a href="https://arxiv.org/abs/1702.08608">Towards A Rigorous Science of Interpretable Machine Learning </a></li>
+        <li><a href="https://arxiv.org/abs/1805.11783"> To Trust Or Not To Trust A Classifier</a></li>
+        </ul> 
         </td>
         <td></td>
         <td></td>
