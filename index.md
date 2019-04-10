@@ -247,17 +247,25 @@ Course announcements will be announced through Piazza. If you are in the class,
         <li><a href="https://arxiv.org/abs/1805.11783"> To Trust Or Not To Trust A Classifier</a></li>
         </ul> 
         </td>
-        <td></td>
+        <td><li> <a href="https://www.youtube.com/watch?v=wzQutYg9KRg&list=PLkFD6_40KJIxG6I7MWd4LXAKl-kQO54_8&index=8&t=20s">Video</a> </li></td>
         <td></td>
     </tr>
 
     <tr>
     <td> 4/15 </td>
-    <td> Balaji Lakshminarayanan </td>
+    <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s19/speakers.html#balaji-lakshminarayanan-uncertainty-and-out---of---distribution-robustness-in-deep-learning">" Balaji Lakshminarayanan </a></td>
     <td> uncertainty</td>
     <td>
-    <ul>
+    <u>Main Reading:</u>
+    <ul><li><a href="https://arxiv.org/abs/1612.01474">Simple and scalable predictive uncertainty estimation using deep ensembles</a></li>
+    <li><a href="https://arxiv.org/abs/1810.09136">Do deep generative models know what they don't know?</a></li>
     </ul>
+    <u>Background Reading:</u>
+    <ul>
+<li><a href="http://mlg.eng.cam.ac.uk/yarin/thesis/1_introduction.pdf">Chapter 1 of Yarin Gal's PhD thesis "Uncertainty in deep learning"
+Introduction: The Importance of Knowing What We Don’t Know </a></li>
+    <li><a href="https://arxiv.org/pdf/1706.04599.pdf"> On Calibration of Modern Neural Networks</a></li>
+    </ul> 
     </td>
     <td></td>
     <td></td>

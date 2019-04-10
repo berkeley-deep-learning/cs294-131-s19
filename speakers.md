@@ -84,4 +84,15 @@ Among them, I will take a deeper dive in one of my recent work - testing with co
 Been Kim is a senior research scientist at Google Brain. Her research focuses on building interpretable machine learning - making ML understandable by humans. The vision of her research is to make humans empowered by machine learning, not overwhelmed by it. She gave ICML tutorial on the topic in 2017, CVPR and MLSS at University of Toronto in 2018. She is a co-workshop Chair ICLR 2019, and has been an area chair and a program committee at NIPS, ICML, AISTATS and FAT* conferences. In 2018, she gave a talk at G20 meeting on digital economy summit in Argentina. She received her PhD. from MIT.
 
 
+## Balaji Lakshminarayanan: Uncertainty and Out-of-distribution Robustness in Deep Learning
+
+### Abstract
+
+Quantifying predictive uncertainty in deep learning is a challenging and yet unsolved problem. Predictive uncertainty estimates are important to know when to trust a model's predictions, especially in real-word applications, where the train and test distributions can be very different. 
+The first part of the talk will be focused on predictive uncertainty estimation for discriminative models. Bayesian neural networks are popular; however these require significant modifications to the training procedure and can be computationally expensive. I'll talk about our recent work on "Probabilistic Deep Ensembles", an alternative to Bayesian neural networks, that is simple to implement, readily parallelizable, requires very little hyperparameter tuning, and yields high quality predictive uncertainty estimates.
+The second part of the talk focuses on out-of-distribution inputs. Deep generative models are believed to be more robust to OOD inputs, as they model the input density p(x), which motivates their use in hybrid models that combine discriminative p(y|x) and generative p(x) component. We challenge this assumption, and present several counter-examples where deep generative models assign higher likelihood to OOD inputs.
+
+
+### Bio
+Balaji Lakshminarayanan is a senior research scientist at Google DeepMind. He is interested in scalable probabilistic machine learning and its applications. Most recently, his research has focused on probabilistic deep learning, specifically, uncertainty estimation and deep generative models. He received his PhD from the Gatsby Unit, University College London where he worked with Yee Whye Teh.
 
