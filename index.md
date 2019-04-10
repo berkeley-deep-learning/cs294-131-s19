@@ -253,7 +253,7 @@ Course announcements will be announced through Piazza. If you are in the class,
 
     <tr>
     <td> 4/15 </td>
-    <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s19/speakers.html#balaji-lakshminarayanan-uncertainty-and-out-of-distribution-robustness-in-deep-learning">" Balaji Lakshminarayanan </a></td>
+    <td><a href="https://berkeley-deep-learning.github.io/cs294-131-s19/speakers.html#balaji-lakshminarayanan-uncertainty-and-out-of-distribution-robustness-in-deep-learning">Balaji Lakshminarayanan </a></td>
     <td> uncertainty</td>
     <td>
     <u>Main Reading:</u>
