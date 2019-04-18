@@ -273,12 +273,18 @@ Introduction: The Importance of Knowing What We Don’t Know </a></li>
 
     <tr>
     <td> 4/22 </td>
-    <td> Noah Goodman </td>
+    <td> <a href="https://berkeley-deep-learning.github.io/cs294-131-s19/speakers.html#noah-goodman-deep-probabilistic-programs-and-applications"> Noah Goodman </a></td>
     <td> Pyro </td>
     <td>
-    <ul>
+    <u>Main Reading:</u>
+    <ul><li><a href="http://papers.nips.cc/paper/7801-multimodal-generative-models-for-scalable-weakly-supervised-learning.pdf">Multimodal Generative Models for Scalable Weakly-Supervised Learning.</a></li>
+    <li><a href="https://arxiv.org/pdf/1809.01357.pdf">Zero Shot Learning for Code Education: Rubric Sampling with Deep Learning Inference</a></li>
     </ul>
-    </td>
+    <u>Background Reading:</u>
+    <ul>
+    <li><a href="http://jmlr.org/papers/v20/18-403.html">Pyro: Deep Universal Probabilistic Programming
+    </a></li>
+    </ul>    </td>
     <td></td>
     <td></td>
     </tr>

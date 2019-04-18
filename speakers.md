@@ -96,3 +96,13 @@ The second part of the talk focuses on out-of-distribution inputs. Deep generati
 ### Bio
 Balaji Lakshminarayanan is a senior research scientist at Google DeepMind. He is interested in scalable probabilistic machine learning and its applications. Most recently, his research has focused on probabilistic deep learning, specifically, uncertainty estimation and deep generative models. He received his PhD from the Gatsby Unit, University College London where he worked with Yee Whye Teh.
 
+
+## Noah Goodman: Deep probabilistic programs and applications
+
+### Abstract
+
+ I'll discuss deep universal probabilistic programming, a framework that unifies deep learning, probabilistic modeling, and programming languages. I'll then describe mulltimodal generative modeling in this framework, and applications to code education.
+
+### Bio
+ Noah D. Goodman is Associate Professor of Psychology and Computer Science at Stanford University, and Senior Research Fellow at Uber AI Labs. He studies the computational basis of human and machine intelligence, merging behavioral experiments with formal methods from statistics, machine learning, and programming languages. His research topics include language understanding, social reasoning, concept learning, and causality. In addition he explores related technologies such as probabilistic programming languages and deep generative models. He has released open-source software including the probabilistic programming languages Church, WebPPL, and Pyro. Professor Goodman received his Ph.D. in mathematics from the University of Texas at Austin in 2003. In 2005 he entered cognitive science, working as Postdoc and Research Scientist at MIT. In 2010 he moved to Stanford where he runs the Computation and Cognition Lab. His work has been recognized by the J. S. McDonnell Foundation Scholar Award, the Roger N. Shepard Distinguished Visiting Scholar Award, the Alfred P. Sloan Research Fellowship in Neuroscience, six computational modeling prizes from the Cognitive Science Society, and several best paper awards.
+
