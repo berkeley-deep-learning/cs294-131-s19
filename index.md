@@ -267,7 +267,7 @@ Introduction: The Importance of Knowing What We Don’t Know </a></li>
     <li><a href="https://arxiv.org/pdf/1706.04599.pdf"> On Calibration of Modern Neural Networks</a></li>
     </ul> 
     </td>
-    <td></td>
+    <td><li> <a href="https://www.youtube.com/watch?v=t-9LoAxJeME&list=PLkFD6_40KJIxG6I7MWd4LXAKl-kQO54_8&index=9&t=0s">Video </a> </li></td>
     <td></td>
     </tr>
 
