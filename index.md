@@ -268,7 +268,7 @@ Introduction: The Importance of Knowing What We Don’t Know </a></li>
     </ul> 
     </td>
     <td><li> <a href="https://www.youtube.com/watch?v=t-9LoAxJeME&list=PLkFD6_40KJIxG6I7MWd4LXAKl-kQO54_8&index=9&t=0s">Video </a> </li></td>
-    <td></td>
+    <td><li> <a href="https://drive.google.com/file/d/1PEnhC5YMvilFz60NQGQLyxTnTwZ0nTBp/view?usp=sharing">Slides </a> </li></td>
     </tr>
 
     <tr>
@@ -285,7 +285,7 @@ Introduction: The Importance of Knowing What We Don’t Know </a></li>
     <li><a href="http://jmlr.org/papers/v20/18-403.html">Pyro: Deep Universal Probabilistic Programming
     </a></li>
     </ul>    </td>
-    <td></td>
+    <td><li> <a href="https://www.youtube.com/watch?v=6SGjNy1xRzg&list=PLkFD6_40KJIxG6I7MWd4LXAKl-kQO54_8&index=10&t=0s">Video</a> </li></td>
     <td></td>
     </tr>
 
